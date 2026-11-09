@@ -21,6 +21,7 @@ Part A:
 11. [Step 8 — Quality control](#11-step-8--quality-control)
 12. [Outputs](#12-outputs)
 13. [Adapting to another genotype](#13-adapting-to-another-genotype)
+    
 Part B-E:
     
 F. [Known limitations](#14-known-limitations)
