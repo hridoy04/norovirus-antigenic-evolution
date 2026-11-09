@@ -7,7 +7,7 @@ The protocol is written so that a reader with no prior knowledge of the project 
 ---
 
 ## Contents
-
+Part A:
 1. [Overview](#1-overview)
 2. [Requirements](#2-requirements)
 3. [Directory layout](#3-directory-layout)
@@ -21,8 +21,10 @@ The protocol is written so that a reader with no prior knowledge of the project 
 11. [Step 8 — Quality control](#11-step-8--quality-control)
 12. [Outputs](#12-outputs)
 13. [Adapting to another genotype](#13-adapting-to-another-genotype)
-14. [Known limitations](#14-known-limitations)
-15. [Citation and licence](#15-citation-and-licence)
+Part B-E:
+    
+F. [Known limitations](#14-known-limitations)
+G. [Citation and licence](#15-citation-and-licence)
 
 ---
 ### Part A
